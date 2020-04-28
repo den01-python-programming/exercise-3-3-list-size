@@ -1,6 +1,6 @@
 # Exercise 3.3 List size
 
-In the exercise template is a program that reads input from the user. Modify its working so that when the program quits reading, the program prints the number of values on the list.
+Write a program that asks the user for strings and adds them to a list. The program stops reading when the user enters an empty string. Modify its working so that when the program quits reading, the program prints the number of values on the list.
 
 ```plaintext
 **Tom**
